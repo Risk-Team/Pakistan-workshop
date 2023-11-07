@@ -11,7 +11,7 @@ This repository contains all the slides and data required for the training. An o
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
 | 8:30-9:00 | [Welcoming remarks](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/December_2022/Day%201.%20Workshop%20agenda.pdf)                                     |
-| 9:00-10:45  | [Climate Module 1: Introduction to   climate change](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/December_2022/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
+| 9:00-10:45  | [Climate Module 1: Climate Data and climate Science](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/December_2022/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
 | 10:45-11:00 | Coffee break                                       |
 | 11:00-13:00 | [Climate Module 1: Introduction to CAVA](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/December_2022/Day%201.%20Crop%20module%201.%20Introduction%20to%20AquaCrop.pdf)    |
 
