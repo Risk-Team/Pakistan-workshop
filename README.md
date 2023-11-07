@@ -3,7 +3,12 @@ This repository contains all the necessary information and material for the work
 
 In case you modify by mistake the DATA folder of AquaCrop, you can download again the default files from [here](https://www.dropbox.com/sh/0f21t4pfswjnwy3/AAC1B_2H7FLTy3yk5Bh43d3qa?dl=0)
 
+## Online pre-session (Wednesday 22nd Npvember)
 
+
+| Time        | Slides                                             |
+|-------------|----------------------------------------------------|
+| 14-16:00 | [Welcoming remarks](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/December_2022/Day%201.%20Workshop%20agenda.pdf)                                     |
 
 ## Monday day 1: Introduction to climate data
 This repository contains all the slides and data required for the training. An overview of the agenda, with a link to the slides and material is found below
