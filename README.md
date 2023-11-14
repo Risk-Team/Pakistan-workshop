@@ -8,7 +8,7 @@ In case you modify by mistake the DATA folder of AquaCrop, you can download agai
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 14:00-16:00 | [Workshop overview and instructions]()                                     |
+| 14:00-16:00 | [Workshop overview and instructions](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Online%20pre-session.pdf)                                     |
 
 ## Monday day 1: Introduction to climate data
 This repository contains all the slides and data required for the training. An overview of the agenda, with a link to the slides and material is found below
