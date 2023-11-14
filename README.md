@@ -10,7 +10,8 @@ In case you modify by mistake the DATA folder of AquaCrop, you can download agai
 |-------------|----------------------------------------------------|
 | 14:00-16:00 | [Workshop overview and instructions](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Online%20pre-session.pdf)                                     |
 
-## Monday day 1: Introduction to climate data
+## Monday day 1: Introduction to climate data and [AquaCrop](https://www.fao.org/aquacrop/en/)
+
 This repository contains all the slides and data required for the training. An overview of the agenda, with a link to the slides and material is found below
 
 | Time        | Slides                                             |
@@ -21,20 +22,17 @@ This repository contains all the slides and data required for the training. An o
 | 11:00-13:00 | [Climate Module 1: Introduction to CAVA]()    |
 
 
-## Tuesday day 2: Introduction to [AquaCrop](https://www.fao.org/aquacrop/en/)
+## Tuesday day 2: Running AquaCrop
 
 
 
-## Wednesday day 3: Running AquaCrop 
+## Wednesday day 3: Interpreting AquaCrop results and using [AquaCropPLotter](https://github.com/Risk-Team/AquaCropPlotter)
 
 
 
-
-## Thursday day 4: Interpreting AquaCrop results and using [AquaCropPLotter](https://github.com/Risk-Team/AquaCropPlotter)
-
+## Thursday day 4: Hands-on exercise 
 
 
 
-## Friday day 5: Hands-on exercise 
 
 
