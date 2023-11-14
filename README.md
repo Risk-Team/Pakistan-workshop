@@ -26,7 +26,7 @@ This repository contains all the slides and data required for the training. An o
 
 
 
-## Wednesday day 3: Interpreting AquaCrop results and using [AquaCropPLotter](https://github.com/Risk-Team/AquaCropPlotter)
+## Wednesday day 3: Understanding AquaCrop results and using [AquaCropPLotter](https://github.com/Risk-Team/AquaCropPlotter)
 
 
 
