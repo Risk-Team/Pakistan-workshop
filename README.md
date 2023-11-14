@@ -3,7 +3,7 @@ This repository contains all the necessary information and material for the work
 
 In case you modify by mistake the DATA folder of AquaCrop, you can download again the default files from [here](https://www.dropbox.com/sh/0f21t4pfswjnwy3/AAC1B_2H7FLTy3yk5Bh43d3qa?dl=0)
 
-## Online pre-session (Wednesday 22nd Npvember)
+## Online pre-session (Wednesday 22nd November)
 
 
 | Time        | Slides                                             |
