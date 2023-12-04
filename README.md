@@ -31,7 +31,7 @@ During Day one of the workshop, we will be learning about basic and more advance
 | 11:00-13:00 | [Crop Module 3: Upload data in AquaCrop](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%202.%20Crop%20module%203.%20Create%20and%20upload%20crop%2C%20soil%20and%20management%20files.pdf)    |
 
 
-## Wednesday day 3: Understanding AquaCrop results and using [AquaCropPlotter](https://github.com/Risk-Team/AquaCropPlotter)
+## Wednesday day 3: Understanding AquaCrop results, using AquaCrop plug-in for heavy workloads and [AquaCropPlotter](https://github.com/Risk-Team/AquaCropPlotter)
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
