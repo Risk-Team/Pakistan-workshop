@@ -20,7 +20,7 @@ This repository contains all the slides and data required for the training. An o
 | 9:00-10:45  | [Climate Module 1: Climate Data and climate Science](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20%20Climate%20data%20and%20climate%20science.pdf) |
 | 10:45-11:00 | Coffee break                                       |
 | 11:00-11:30 | [Climate Module 1: Introduction to CAVA and downloading climate data](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20CAVA.pdf)    |
-| 11:30-13:00 | [Crop Module 1a]() and [Crop Module 1b](): Introduction to AquaCrop|
+| 11:30-13:00 | [Crop Module 1a](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%201.%20Crop%20module%201a.%20Introduction%20to%20AquaCrop.pdf) and [Crop Module 1b](): Introduction to AquaCrop|
 
 ## Tuesday day 2: Running AquaCrop
 
