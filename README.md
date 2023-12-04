@@ -37,8 +37,8 @@ During Day one of the workshop, we will be learning about basic and more advance
 |-------------|----------------------------------------------------|
 | 8:30-10:30 | [Crop Module 4: AquaCrop results and calibration and validation](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%203%20Crop%20module%204.%20Interpreting%20AquaCrop%20outputs.pdf)                                     |
 | 10:30-11:00  | Coffee Break |
-| 11:00-12:00 | [Crop Module 5: AquaCrop plug-in for heavy workloads]()   |
-| 12:00-13:00 | [Crop Module 5: AquaCropPlotter for visualizing AquaCrop results]()   |
+| 11:00-12:00 | [Crop Module 5: AquaCrop plug-in for heavy workloads](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%203.%20Crop%20module%205.%20AquaCrop%20plug-in%20for%20heavy%20workload.pdf)   |
+| 12:00-13:00 | [Crop Module 5: AquaCropPlotter for visualizing AquaCrop results](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%203.%20Crop%20module%205.%20AquaCropPlotter.pdf)   |
 
 ## Day 4: Hands-on exercise 
 
