@@ -24,6 +24,11 @@ During Day one of the workshop, we will be learning about basic and more advance
 
 ## Tuesday day 2: Running AquaCrop
 
+| Time        | Slides                                             |
+|-------------|----------------------------------------------------|
+| 8:30-10:30 | [Crop Module 2: AquaCrop input requirements](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Workshop%20agenda.pdf)                                     |
+| 10:30-11:00  | Coffee Break |
+| 11:00-13:00 | [Crop Module 3: Upload data in AquaCrop](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20CAVA.pdf)    |
 
 
 ## Wednesday day 3: Understanding AquaCrop results and using [AquaCropPlotter](https://github.com/Risk-Team/AquaCropPlotter)
