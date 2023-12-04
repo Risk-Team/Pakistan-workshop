@@ -12,7 +12,7 @@ In case you modify by mistake the DATA folder of AquaCrop, you can download agai
 
 ## Monday day 1: Introduction to climate data and [AquaCrop](https://www.fao.org/aquacrop/en/)
 
-This repository contains all the slides and data required for the training. An overview of the agenda, with a link to the slides and material is found below
+During Day one of the workshop, we will be learning about basic and more advanced topics regarding climate data and crop modeling to then dive deeper into the usage of AquaCrop.
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
