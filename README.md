@@ -19,7 +19,7 @@ This repository contains all the slides and data required for the training. An o
 | 8:30-9:00 | [Welcoming remarks and agenda](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Workshop%20agenda.pdf)                                     |
 | 9:00-10:45  | [Climate Module 1: Climate Data and climate Science](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20%20Climate%20data%20and%20climate%20science.pdf) |
 | 10:45-11:00 | Coffee break                                       |
-| 11:00-13:00 | [Climate Module 1: Introduction to CAVA]()    |
+| 11:00-13:00 | [Climate Module 1: Introduction to CAVA and downloading climate data]()    |
 
 
 ## Tuesday day 2: Running AquaCrop
