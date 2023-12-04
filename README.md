@@ -26,8 +26,7 @@ During Day one of the workshop, we will be learning about basic and more advance
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 8:30-10:30 | Crop Module 2: [AquaCrop input requirements](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%202.%20Crop%20module%202.%20Input%20Requirements.pdf) 
-and [Creating climate files](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%202.%20Crop%20module%202.%20Creating%20Climatic%20Files%20on%20AquaCrop.pdf)                                   |
+| 8:30-10:30 | Crop Module 2: [AquaCrop input requirements](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%202.%20Crop%20module%202.%20Input%20Requirements.pdf) and [Creating climate files](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%202.%20Crop%20module%202.%20Creating%20Climatic%20Files%20on%20AquaCrop.pdf)                                   |
 | 10:30-11:00  | Coffee Break |
 | 11:00-13:00 | [Crop Module 3: Upload data in AquaCrop](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%202.%20Crop%20module%203.%20Create%20and%20upload%20crop%2C%20soil%20and%20management%20files.pdf)    |
 
