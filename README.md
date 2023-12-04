@@ -16,7 +16,7 @@ This repository contains all the slides and data required for the training. An o
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 8:30-9:00 | [Welcoming remarks]()                                     |
+| 8:30-9:00 | [Welcoming remarks](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Workshop%20agenda.pdf)                                     |
 | 9:00-10:45  | [Climate Module 1: Climate Data and climate Science]() |
 | 10:45-11:00 | Coffee break                                       |
 | 11:00-13:00 | [Climate Module 1: Introduction to CAVA]()    |
