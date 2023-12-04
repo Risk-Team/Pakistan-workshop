@@ -10,7 +10,7 @@ In case you modify by mistake the DATA folder of AquaCrop, you can download agai
 |-------------|----------------------------------------------------|
 | 14:00-16:00 | [Workshop overview and instructions](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Online%20pre-session.pdf)                                     |
 
-## Monday day 1: Introduction to climate data and [AquaCrop](https://www.fao.org/aquacrop/en/)
+## Tuesday day 1: Introduction to climate data and [AquaCrop](https://www.fao.org/aquacrop/en/)
 
 During Day one of the workshop, we will be learning about basic and more advanced topics regarding climate data and crop modeling to then dive deeper into the usage of AquaCrop.
 
@@ -22,7 +22,7 @@ During Day one of the workshop, we will be learning about basic and more advance
 | 11:00-11:30 | [Climate Module 1: Introduction to CAVA and downloading climate data](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20CAVA.pdf)    |
 | 11:30-13:00 | [Crop Module 1a](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%201.%20Crop%20module%201a.%20Introduction%20to%20AquaCrop.pdf) and [Crop Module 1b](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%201.%20Crop%20module%201b.%20Introduction%20to%20AquaCrop.pdf): Introduction to AquaCrop|
 
-## Tuesday day 2: Running AquaCrop
+## Wednesday day 2: Running AquaCrop
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
@@ -31,7 +31,7 @@ During Day one of the workshop, we will be learning about basic and more advance
 | 11:00-13:00 | [Crop Module 3: Upload data in AquaCrop](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%202.%20Crop%20module%203.%20Create%20and%20upload%20crop%2C%20soil%20and%20management%20files.pdf)    |
 
 
-## Wednesday day 3: Understanding AquaCrop results, using AquaCrop plug-in for heavy workloads and [AquaCropPlotter](https://github.com/Risk-Team/AquaCropPlotter)
+## Thursday day 3: Understanding AquaCrop results, using AquaCrop plug-in for heavy workloads and [AquaCropPlotter](https://github.com/Risk-Team/AquaCropPlotter)
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
@@ -40,7 +40,7 @@ During Day one of the workshop, we will be learning about basic and more advance
 | 11:00-12:00 | [Crop Module 5: AquaCrop plug-in for heavy workloads]()   |
 | 12:00-13:00 | [Crop Module 5: AquaCropPlotter for visualizing AquaCrop results]()   |
 
-## Thursday day 4: Hands-on exercise 
+## Friday day 4: Hands-on exercise 
 
 
 
