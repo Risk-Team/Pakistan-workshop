@@ -33,7 +33,8 @@ During Day one of the workshop, we will be learning about basic and more advance
 
 ## Day 3: Understanding AquaCrop results, using AquaCrop plug-in for heavy workloads and [AquaCropPlotter](https://foodandagricultureorganization.shinyapps.io/AquaCropPlotter/)
 
-Make sure you have pasted this [file](https://www.dropbox.com/s/r9xghwetldc314b/DailyResults.SIM?dl=0) into the SIMUL folder of AquaCrop plug-in
+Make sure you have pasted this [file](https://www.dropbox.com/s/r9xghwetldc314b/DailyResults.SIM?dl=0) into the SIMUL folder of AquaCrop plug-in.
+
 In case internet connection not good, [install AquaCropPlotter locally](https://www.dropbox.com/scl/fi/kywp8qnyiox4as6i84815/AquaCropPlotter_installer.exe?rlkey=jslyvxragwcvw9dokj0ma6b96&dl=0)
 
 | Time        | Slides                                             |
