@@ -58,7 +58,7 @@ In case internet connection is not good, [install AquaCropPlotter locally](https
 
 ## Day 4: Hands-on exercise 
 
-This training session will be enterely unteractive. However, instructions to follow an additional exercise can be found below:
+This training session will be enterely interactive. However, instructions to follow an additional exercise can be found below:
 
 [guidelines](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%204.%20Crop%20module%206.%20Hands-on%20exercise_Multan.pdf)
 
