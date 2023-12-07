@@ -1,0 +1,4185 @@
+
+      7.0       : AquaCrop Version (April 2021)
+      1         : Year number of cultivation (Seeding/planting year)
+  40117         : First day of simulation period - 1 November 2010  
+  40280         : Last day of simulation period - 13 April 2011    
+  40117         : First day of cropping period - 1 November 2010  
+  40280         : Last day of cropping period - 13 April 2011    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  40482         : First day of simulation period - 1 November 2011  
+  40648         : Last day of simulation period - 15 April 2012    
+  40482         : First day of cropping period - 1 November 2011  
+  40648         : Last day of cropping period - 15 April 2012    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  40848         : First day of simulation period - 1 November 2012  
+  41013         : Last day of simulation period - 15 April 2013    
+  40848         : First day of cropping period - 1 November 2012  
+  41013         : Last day of cropping period - 15 April 2013    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  41213         : First day of simulation period - 1 November 2013  
+  41378         : Last day of simulation period - 15 April 2014    
+  41213         : First day of cropping period - 1 November 2013  
+  41378         : Last day of cropping period - 15 April 2014    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  41578         : First day of simulation period - 1 November 2014  
+  41741         : Last day of simulation period - 13 April 2015    
+  41578         : First day of cropping period - 1 November 2014  
+  41741         : Last day of cropping period - 13 April 2015    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  41943         : First day of simulation period - 1 November 2015  
+  42106         : Last day of simulation period - 12 April 2016    
+  41943         : First day of cropping period - 1 November 2015  
+  42106         : Last day of cropping period - 12 April 2016    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  42309         : First day of simulation period - 1 November 2016  
+  42468         : Last day of simulation period - 9 April 2017     
+  42309         : First day of cropping period - 1 November 2016  
+  42468         : Last day of cropping period - 9 April 2017     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  42674         : First day of simulation period - 1 November 2017  
+  42836         : Last day of simulation period - 12 April 2018    
+  42674         : First day of cropping period - 1 November 2017  
+  42836         : Last day of cropping period - 12 April 2018    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  43039         : First day of simulation period - 1 November 2018  
+  43199         : Last day of simulation period - 10 April 2019    
+  43039         : First day of cropping period - 1 November 2018  
+  43199         : Last day of cropping period - 10 April 2019    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  43404         : First day of simulation period - 1 November 2019  
+  43565         : Last day of simulation period - 10 April 2020    
+  43404         : First day of cropping period - 1 November 2019  
+  43565         : Last day of cropping period - 10 April 2020    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  43770         : First day of simulation period - 1 November 2020  
+  43933         : Last day of simulation period - 13 April 2021    
+  43770         : First day of cropping period - 1 November 2020  
+  43933         : Last day of cropping period - 13 April 2021    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  44135         : First day of simulation period - 1 November 2021  
+  44298         : Last day of simulation period - 13 April 2022    
+  44135         : First day of cropping period - 1 November 2021  
+  44298         : Last day of cropping period - 13 April 2022    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  44500         : First day of simulation period - 1 November 2022  
+  44660         : Last day of simulation period - 10 April 2023    
+  44500         : First day of cropping period - 1 November 2022  
+  44660         : Last day of cropping period - 10 April 2023    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  44865         : First day of simulation period - 1 November 2023  
+  45031         : Last day of simulation period - 15 April 2024    
+  44865         : First day of cropping period - 1 November 2023  
+  45031         : Last day of cropping period - 15 April 2024    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  45231         : First day of simulation period - 1 November 2024  
+  45391         : Last day of simulation period - 10 April 2025    
+  45231         : First day of cropping period - 1 November 2024  
+  45391         : Last day of cropping period - 10 April 2025    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  45596         : First day of simulation period - 1 November 2025  
+  45759         : Last day of simulation period - 13 April 2026    
+  45596         : First day of cropping period - 1 November 2025  
+  45759         : Last day of cropping period - 13 April 2026    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  45961         : First day of simulation period - 1 November 2026  
+  46119         : Last day of simulation period - 8 April 2027     
+  45961         : First day of cropping period - 1 November 2026  
+  46119         : Last day of cropping period - 8 April 2027     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  46326         : First day of simulation period - 1 November 2027  
+  46486         : Last day of simulation period - 9 April 2028     
+  46326         : First day of cropping period - 1 November 2027  
+  46486         : Last day of cropping period - 9 April 2028     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  46692         : First day of simulation period - 1 November 2028  
+  46853         : Last day of simulation period - 11 April 2029    
+  46692         : First day of cropping period - 1 November 2028  
+  46853         : Last day of cropping period - 11 April 2029    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  47057         : First day of simulation period - 1 November 2029  
+  47214         : Last day of simulation period - 7 April 2030     
+  47057         : First day of cropping period - 1 November 2029  
+  47214         : Last day of cropping period - 7 April 2030     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  47422         : First day of simulation period - 1 November 2030  
+  47579         : Last day of simulation period - 7 April 2031     
+  47422         : First day of cropping period - 1 November 2030  
+  47579         : Last day of cropping period - 7 April 2031     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  47787         : First day of simulation period - 1 November 2031  
+  47947         : Last day of simulation period - 9 April 2032     
+  47787         : First day of cropping period - 1 November 2031  
+  47947         : Last day of cropping period - 9 April 2032     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  48153         : First day of simulation period - 1 November 2032  
+  48310         : Last day of simulation period - 7 April 2033     
+  48153         : First day of cropping period - 1 November 2032  
+  48310         : Last day of cropping period - 7 April 2033     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  48518         : First day of simulation period - 1 November 2033  
+  48677         : Last day of simulation period - 9 April 2034     
+  48518         : First day of cropping period - 1 November 2033  
+  48677         : Last day of cropping period - 9 April 2034     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  48883         : First day of simulation period - 1 November 2034  
+  49041         : Last day of simulation period - 8 April 2035     
+  48883         : First day of cropping period - 1 November 2034  
+  49041         : Last day of cropping period - 8 April 2035     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  49248         : First day of simulation period - 1 November 2035  
+  49404         : Last day of simulation period - 5 April 2036     
+  49248         : First day of cropping period - 1 November 2035  
+  49404         : Last day of cropping period - 5 April 2036     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  49614         : First day of simulation period - 1 November 2036  
+  49770         : Last day of simulation period - 6 April 2037     
+  49614         : First day of cropping period - 1 November 2036  
+  49770         : Last day of cropping period - 6 April 2037     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  49979         : First day of simulation period - 1 November 2037  
+  50138         : Last day of simulation period - 9 April 2038     
+  49979         : First day of cropping period - 1 November 2037  
+  50138         : Last day of cropping period - 9 April 2038     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  50344         : First day of simulation period - 1 November 2038  
+  50501         : Last day of simulation period - 7 April 2039     
+  50344         : First day of cropping period - 1 November 2038  
+  50501         : Last day of cropping period - 7 April 2039     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  50709         : First day of simulation period - 1 November 2039  
+  50864         : Last day of simulation period - 4 April 2040     
+  50709         : First day of cropping period - 1 November 2039  
+  50864         : Last day of cropping period - 4 April 2040     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  51075         : First day of simulation period - 1 November 2040  
+  51231         : Last day of simulation period - 6 April 2041     
+  51075         : First day of cropping period - 1 November 2040  
+  51231         : Last day of cropping period - 6 April 2041     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  51440         : First day of simulation period - 1 November 2041  
+  51597         : Last day of simulation period - 7 April 2042     
+  51440         : First day of cropping period - 1 November 2041  
+  51597         : Last day of cropping period - 7 April 2042     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  51805         : First day of simulation period - 1 November 2042  
+  51962         : Last day of simulation period - 7 April 2043     
+  51805         : First day of cropping period - 1 November 2042  
+  51962         : Last day of cropping period - 7 April 2043     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  52170         : First day of simulation period - 1 November 2043  
+  52324         : Last day of simulation period - 3 April 2044     
+  52170         : First day of cropping period - 1 November 2043  
+  52324         : Last day of cropping period - 3 April 2044     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  52536         : First day of simulation period - 1 November 2044  
+  52694         : Last day of simulation period - 8 April 2045     
+  52536         : First day of cropping period - 1 November 2044  
+  52694         : Last day of cropping period - 8 April 2045     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  52901         : First day of simulation period - 1 November 2045  
+  53057         : Last day of simulation period - 6 April 2046     
+  52901         : First day of cropping period - 1 November 2045  
+  53057         : Last day of cropping period - 6 April 2046     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  53266         : First day of simulation period - 1 November 2046  
+  53422         : Last day of simulation period - 6 April 2047     
+  53266         : First day of cropping period - 1 November 2046  
+  53422         : Last day of cropping period - 6 April 2047     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  53631         : First day of simulation period - 1 November 2047  
+  53785         : Last day of simulation period - 3 April 2048     
+  53631         : First day of cropping period - 1 November 2047  
+  53785         : Last day of cropping period - 3 April 2048     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  53997         : First day of simulation period - 1 November 2048  
+  54153         : Last day of simulation period - 6 April 2049     
+  53997         : First day of cropping period - 1 November 2048  
+  54153         : Last day of cropping period - 6 April 2049     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  54362         : First day of simulation period - 1 November 2049  
+  54516         : Last day of simulation period - 4 April 2050     
+  54362         : First day of cropping period - 1 November 2049  
+  54516         : Last day of cropping period - 4 April 2050     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  54727         : First day of simulation period - 1 November 2050  
+  54880         : Last day of simulation period - 3 April 2051     
+  54727         : First day of cropping period - 1 November 2050  
+  54880         : Last day of cropping period - 3 April 2051     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  55092         : First day of simulation period - 1 November 2051  
+  55249         : Last day of simulation period - 6 April 2052     
+  55092         : First day of cropping period - 1 November 2051  
+  55249         : Last day of cropping period - 6 April 2052     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  55458         : First day of simulation period - 1 November 2052  
+  55612         : Last day of simulation period - 4 April 2053     
+  55458         : First day of cropping period - 1 November 2052  
+  55612         : Last day of cropping period - 4 April 2053     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  55823         : First day of simulation period - 1 November 2053  
+  55971         : Last day of simulation period - 29 March 2054    
+  55823         : First day of cropping period - 1 November 2053  
+  55971         : Last day of cropping period - 29 March 2054    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  56188         : First day of simulation period - 1 November 2054  
+  56337         : Last day of simulation period - 30 March 2055    
+  56188         : First day of cropping period - 1 November 2054  
+  56337         : Last day of cropping period - 30 March 2055    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  56553         : First day of simulation period - 1 November 2055  
+  56705         : Last day of simulation period - 1 April 2056     
+  56553         : First day of cropping period - 1 November 2055  
+  56705         : Last day of cropping period - 1 April 2056     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  56919         : First day of simulation period - 1 November 2056  
+  57069         : Last day of simulation period - 31 March 2057    
+  56919         : First day of cropping period - 1 November 2056  
+  57069         : Last day of cropping period - 31 March 2057    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  57284         : First day of simulation period - 1 November 2057  
+  57436         : Last day of simulation period - 2 April 2058     
+  57284         : First day of cropping period - 1 November 2057  
+  57436         : Last day of cropping period - 2 April 2058     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  57649         : First day of simulation period - 1 November 2058  
+  57803         : Last day of simulation period - 4 April 2059     
+  57649         : First day of cropping period - 1 November 2058  
+  57803         : Last day of cropping period - 4 April 2059     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  58014         : First day of simulation period - 1 November 2059  
+  58164         : Last day of simulation period - 30 March 2060    
+  58014         : First day of cropping period - 1 November 2059  
+  58164         : Last day of cropping period - 30 March 2060    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  58380         : First day of simulation period - 1 November 2060  
+  58530         : Last day of simulation period - 31 March 2061    
+  58380         : First day of cropping period - 1 November 2060  
+  58530         : Last day of cropping period - 31 March 2061    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  58745         : First day of simulation period - 1 November 2061  
+  58895         : Last day of simulation period - 31 March 2062    
+  58745         : First day of cropping period - 1 November 2061  
+  58895         : Last day of cropping period - 31 March 2062    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  59110         : First day of simulation period - 1 November 2062  
+  59261         : Last day of simulation period - 1 April 2063     
+  59110         : First day of cropping period - 1 November 2062  
+  59261         : Last day of cropping period - 1 April 2063     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  59475         : First day of simulation period - 1 November 2063  
+  59627         : Last day of simulation period - 1 April 2064     
+  59475         : First day of cropping period - 1 November 2063  
+  59627         : Last day of cropping period - 1 April 2064     
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  59841         : First day of simulation period - 1 November 2064  
+  59990         : Last day of simulation period - 30 March 2065    
+  59841         : First day of cropping period - 1 November 2064  
+  59990         : Last day of cropping period - 30 March 2065    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  60206         : First day of simulation period - 1 November 2065  
+  60356         : Last day of simulation period - 31 March 2066    
+  60206         : First day of cropping period - 1 November 2065  
+  60356         : Last day of cropping period - 31 March 2066    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  60571         : First day of simulation period - 1 November 2066  
+  60715         : Last day of simulation period - 25 March 2067    
+  60571         : First day of cropping period - 1 November 2066  
+  60715         : Last day of cropping period - 25 March 2067    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  60936         : First day of simulation period - 1 November 2067  
+  61086         : Last day of simulation period - 30 March 2068    
+  60936         : First day of cropping period - 1 November 2067  
+  61086         : Last day of cropping period - 30 March 2068    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  61302         : First day of simulation period - 1 November 2068  
+  61451         : Last day of simulation period - 30 March 2069    
+  61302         : First day of cropping period - 1 November 2068  
+  61451         : Last day of cropping period - 30 March 2069    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  61667         : First day of simulation period - 1 November 2069  
+  61815         : Last day of simulation period - 29 March 2070    
+  61667         : First day of cropping period - 1 November 2069  
+  61815         : Last day of cropping period - 29 March 2070    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  62032         : First day of simulation period - 1 November 2070  
+  62177         : Last day of simulation period - 26 March 2071    
+  62032         : First day of cropping period - 1 November 2070  
+  62177         : Last day of cropping period - 26 March 2071    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  62397         : First day of simulation period - 1 November 2071  
+  62543         : Last day of simulation period - 26 March 2072    
+  62397         : First day of cropping period - 1 November 2071  
+  62543         : Last day of cropping period - 26 March 2072    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  62763         : First day of simulation period - 1 November 2072  
+  62909         : Last day of simulation period - 27 March 2073    
+  62763         : First day of cropping period - 1 November 2072  
+  62909         : Last day of cropping period - 27 March 2073    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  63128         : First day of simulation period - 1 November 2073  
+  63272         : Last day of simulation period - 25 March 2074    
+  63128         : First day of cropping period - 1 November 2073  
+  63272         : Last day of cropping period - 25 March 2074    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  63493         : First day of simulation period - 1 November 2074  
+  63639         : Last day of simulation period - 27 March 2075    
+  63493         : First day of cropping period - 1 November 2074  
+  63639         : Last day of cropping period - 27 March 2075    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  63858         : First day of simulation period - 1 November 2075  
+  64003         : Last day of simulation period - 25 March 2076    
+  63858         : First day of cropping period - 1 November 2075  
+  64003         : Last day of cropping period - 25 March 2076    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  64224         : First day of simulation period - 1 November 2076  
+  64368         : Last day of simulation period - 25 March 2077    
+  64224         : First day of cropping period - 1 November 2076  
+  64368         : Last day of cropping period - 25 March 2077    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  64589         : First day of simulation period - 1 November 2077  
+  64732         : Last day of simulation period - 24 March 2078    
+  64589         : First day of cropping period - 1 November 2077  
+  64732         : Last day of cropping period - 24 March 2078    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  64954         : First day of simulation period - 1 November 2078  
+  65098         : Last day of simulation period - 25 March 2079    
+  64954         : First day of cropping period - 1 November 2078  
+  65098         : Last day of cropping period - 25 March 2079    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  65319         : First day of simulation period - 1 November 2079  
+  65463         : Last day of simulation period - 24 March 2080    
+  65319         : First day of cropping period - 1 November 2079  
+  65463         : Last day of cropping period - 24 March 2080    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  65685         : First day of simulation period - 1 November 2080  
+  65827         : Last day of simulation period - 23 March 2081    
+  65685         : First day of cropping period - 1 November 2080  
+  65827         : Last day of cropping period - 23 March 2081    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  66050         : First day of simulation period - 1 November 2081  
+  66195         : Last day of simulation period - 26 March 2082    
+  66050         : First day of cropping period - 1 November 2081  
+  66195         : Last day of cropping period - 26 March 2082    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  66415         : First day of simulation period - 1 November 2082  
+  66559         : Last day of simulation period - 25 March 2083    
+  66415         : First day of cropping period - 1 November 2082  
+  66559         : Last day of cropping period - 25 March 2083    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  66780         : First day of simulation period - 1 November 2083  
+  66923         : Last day of simulation period - 23 March 2084    
+  66780         : First day of cropping period - 1 November 2083  
+  66923         : Last day of cropping period - 23 March 2084    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  67146         : First day of simulation period - 1 November 2084  
+  67287         : Last day of simulation period - 22 March 2085    
+  67146         : First day of cropping period - 1 November 2084  
+  67287         : Last day of cropping period - 22 March 2085    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  67511         : First day of simulation period - 1 November 2085  
+  67656         : Last day of simulation period - 26 March 2086    
+  67511         : First day of cropping period - 1 November 2085  
+  67656         : Last day of cropping period - 26 March 2086    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  67876         : First day of simulation period - 1 November 2086  
+  68020         : Last day of simulation period - 25 March 2087    
+  67876         : First day of cropping period - 1 November 2086  
+  68020         : Last day of cropping period - 25 March 2087    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  68241         : First day of simulation period - 1 November 2087  
+  68382         : Last day of simulation period - 21 March 2088    
+  68241         : First day of cropping period - 1 November 2087  
+  68382         : Last day of cropping period - 21 March 2088    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  68607         : First day of simulation period - 1 November 2088  
+  68747         : Last day of simulation period - 21 March 2089    
+  68607         : First day of cropping period - 1 November 2088  
+  68747         : Last day of cropping period - 21 March 2089    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  68972         : First day of simulation period - 1 November 2089  
+  69113         : Last day of simulation period - 22 March 2090    
+  68972         : First day of cropping period - 1 November 2089  
+  69113         : Last day of cropping period - 22 March 2090    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  69337         : First day of simulation period - 1 November 2090  
+  69479         : Last day of simulation period - 23 March 2091    
+  69337         : First day of cropping period - 1 November 2090  
+  69479         : Last day of cropping period - 23 March 2091    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  69702         : First day of simulation period - 1 November 2091  
+  69841         : Last day of simulation period - 19 March 2092    
+  69702         : First day of cropping period - 1 November 2091  
+  69841         : Last day of cropping period - 19 March 2092    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  70068         : First day of simulation period - 1 November 2092  
+  70208         : Last day of simulation period - 21 March 2093    
+  70068         : First day of cropping period - 1 November 2092  
+  70208         : Last day of cropping period - 21 March 2093    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  70433         : First day of simulation period - 1 November 2093  
+  70574         : Last day of simulation period - 22 March 2094    
+  70433         : First day of cropping period - 1 November 2093  
+  70574         : Last day of cropping period - 22 March 2094    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  70798         : First day of simulation period - 1 November 2094  
+  70941         : Last day of simulation period - 24 March 2095    
+  70798         : First day of cropping period - 1 November 2094  
+  70941         : Last day of cropping period - 24 March 2095    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  71163         : First day of simulation period - 1 November 2095  
+  71304         : Last day of simulation period - 21 March 2096    
+  71163         : First day of cropping period - 1 November 2095  
+  71304         : Last day of cropping period - 21 March 2096    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  71529         : First day of simulation period - 1 November 2096  
+  71668         : Last day of simulation period - 20 March 2097    
+  71529         : First day of cropping period - 1 November 2096  
+  71668         : Last day of cropping period - 20 March 2097    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  71894         : First day of simulation period - 1 November 2097  
+  72034         : Last day of simulation period - 21 March 2098    
+  71894         : First day of cropping period - 1 November 2097  
+  72034         : Last day of cropping period - 21 March 2098    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
+      1         : Year number of cultivation (Seeding/planting year)
+  72259         : First day of simulation period - 1 November 2098  
+  72399         : Last day of simulation period - 21 March 2099    
+  72259         : First day of cropping period - 1 November 2098  
+  72399         : Last day of cropping period - 21 March 2099    
+-- 1. Climate (CLI) file
+   Multan_RCP85.CLI
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.1 Temperature (Tnx or TMP) file
+   Multan_RCP85.Tnx
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.2 Reference ET (ETo) file
+   Multan_RCP85.ETo
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.3 Rain (PLU) file
+   Multan_RCP85.PLU
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+   1.4 Atmospheric CO2 concentration (CO2) file
+   RCP8-5.CO2
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 2. Calendar (CAL) file
+   1stNov.CAL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 3. Crop (CRO) file
+   wheatpakistan.CRO
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 4. Irrigation management (IRR) file
+   Multan_8d15mm.IRR
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 5. Field management (MAN) file
+   (None)
+   (None)
+-- 6. Soil profile (SOL) file
+   ClayLoam_Multan.SOL
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 7. Groundwater table (GWT) file
+   (None)
+   (None)
+-- 8. Initial conditions (SW0) file
+   Pakistan.SW0
+   C:\FAO\Pakistan\GUI_AC71\AquaCropV71No13102023\DATA\
+-- 9. Off-season conditions (OFF) file
+   (None)
+   (None)
+-- 10. Field data (OBS) file
+   (None)
+   (None)
