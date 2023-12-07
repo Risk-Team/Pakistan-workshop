@@ -52,8 +52,8 @@ In case internet connection is not good, [install AquaCropPlotter locally](https
 |-------------|----------------------------------------------------|
 | 9:00-10:00 | Creating climate files: Recap                                   |
 | 10:00-11:00  | Coffee Break |
-| 11:00-11:15 | Preparing a crop file (Wheat Badin) |
-| 11:30-13:30 | Project files and running simulations with AquaCrop plug-in |
+| 11:00-13:00 | [Crop module 5: AquaCrop crop files and AquaCrop plug-in](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%203.%20Crop%20module%204%20and%205.%20Create%20and%20upload%20all%20modules%20%2B%20Run%20simulations%20for%20multiple%20years%20(1).pdf) |
+
 
 
 ## Day 4: Hands-on exercise 
