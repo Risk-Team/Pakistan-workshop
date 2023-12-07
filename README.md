@@ -37,12 +37,22 @@ Make sure you have pasted this [file](https://www.dropbox.com/s/r9xghwetldc314b/
 
 In case internet connection is not good, [install AquaCropPlotter locally](https://www.dropbox.com/scl/fi/kywp8qnyiox4as6i84815/AquaCropPlotter_installer.exe?rlkey=jslyvxragwcvw9dokj0ma6b96&dl=0)
 
+**Planned**
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
 | 8:30-10:30 | [Crop Module 4: AquaCrop results and calibration and validation](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%203%20Crop%20module%204.%20Interpreting%20AquaCrop%20outputs.pdf)                                     |
 | 10:30-11:00  | Coffee Break |
 | 11:00-12:00 | [Crop Module 5: AquaCrop plug-in for heavy workloads](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%203.%20Crop%20module%205.%20AquaCrop%20plug-in%20for%20heavy%20workload.pdf)   |
 | 12:00-13:00 | [Crop Module 5: AquaCropPlotter for visualizing AquaCrop results](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%203.%20Crop%20module%205.%20AquaCropPlotter.pdf)   |
+
+**Delivered**
+| Time        | Slides                                             |
+|-------------|----------------------------------------------------|
+| 9:00-10:00 | Creating climate files: Recap                                   |
+| 10:00-11:00  | Coffee Break |
+| 11:00-11:15 | Coffee break   |
+| 11:30-13:30 |  |
+
 
 ## Day 4: Hands-on exercise 
 
