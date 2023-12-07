@@ -58,6 +58,10 @@ In case internet connection is not good, [install AquaCropPlotter locally](https
 
 ## Day 4: Hands-on exercise 
 
+This training session will be enterely unteractive. However, instructions to follow an additional exercise can be found below:
+
+[guidelines]()
+[data]()
 
 
 
