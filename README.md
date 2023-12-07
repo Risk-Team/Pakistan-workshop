@@ -50,7 +50,7 @@ In case internet connection is not good, [install AquaCropPlotter locally](https
 |-------------|----------------------------------------------------|
 | 9:00-10:00 | Creating climate files: Recap                                   |
 | 10:00-11:00  | Coffee Break |
-| 11:00-11:15 | Coffee break   |
+| 11:00-11:15 | Preparing a crop file (Wheat Badin) |
 | 11:30-13:30 |  |
 
 
