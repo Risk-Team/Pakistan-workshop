@@ -65,7 +65,7 @@ This training session will be enterely interactive. However, instructions to fol
 
 [data](https://www.dropbox.com/scl/fo/l8i44wpycv9vqs40cnqn7/h?rlkey=8nst44q5fg0aselhxdbvbu9bj&dl=0)
 
-## quick recap to make a PRM file, run AquaCrop plug in and use AquaCropPlotter
+## Quick recap to make a PRM file, run AquaCrop plug in and use AquaCropPlotter
 
 
 Make sure you have pasted this [file](https://www.dropbox.com/s/r9xghwetldc314b/DailyResults.SIM?dl=0) into the SIMUL folder of AquaCrop plug-in.
