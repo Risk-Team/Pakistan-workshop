@@ -65,6 +65,9 @@ This training session will be enterely interactive. However, instructions to fol
 
 [data](https://www.dropbox.com/scl/fo/l8i44wpycv9vqs40cnqn7/h?rlkey=8nst44q5fg0aselhxdbvbu9bj&dl=0)
 
+## quick recap
+
+[Download this file](https://www.dropbox.com/scl/fi/p6ig0wra142pkjo3w89s7/Badin_RCP45.csv?rlkey=yq71q9rbh7u1o3y6nhqldk1ij&dl=0) and let's create a PRM file 
 
 
 
