@@ -3,6 +3,7 @@ This repository contains all the necessary information and material for the work
 
 In case you modify by mistake the DATA folder of AquaCrop, you can download again the default files from [here](https://www.dropbox.com/sh/0f21t4pfswjnwy3/AAC1B_2H7FLTy3yk5Bh43d3qa?dl=0)
 
+
 ## Online pre-session (Wednesday 22nd November)
 
 
@@ -67,10 +68,11 @@ This training session will be enterely interactive. However, instructions to fol
 
 ## Quick recap to make a PRM file, run AquaCrop plug in and use AquaCropPlotter
 
-
 Make sure you have pasted this [file](https://www.dropbox.com/s/r9xghwetldc314b/DailyResults.SIM?dl=0) into the SIMUL folder of AquaCrop plug-in.
 
 [Download this file](https://www.dropbox.com/scl/fi/p6ig0wra142pkjo3w89s7/Badin_RCP45.csv?rlkey=yq71q9rbh7u1o3y6nhqldk1ij&dl=0) and let's create a PRM file 
+
+[Follow this video for AquaCrop installation instruction and brief overview of the main steps]()
 
 
 
