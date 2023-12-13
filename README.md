@@ -83,6 +83,6 @@ Make sure you have pasted this [file](https://www.dropbox.com/s/r9xghwetldc314b/
 
 [AquaCropPlotter data](https://www.dropbox.com/scl/fo/y5bpzty8lug0z969zin3g/h?rlkey=ydnysaindbmqtm62s4t59i963&dl=0)
 
-[file for daily simulations AquaCrop plugin](https://www.dropbox.com/s/r9xghwetldc314b/DailyResults.SIM?dl=0).  PAste it into the SIMUL folder of AquaCrop plug-in.
+[file for daily simulations AquaCrop plugin](https://www.dropbox.com/s/r9xghwetldc314b/DailyResults.SIM?dl=0).  Paste it into the SIMUL folder of AquaCrop plug-in.
 
 [Climate data for Badin](https://www.dropbox.com/scl/fi/p6ig0wra142pkjo3w89s7/Badin_RCP45.csv?rlkey=yq71q9rbh7u1o3y6nhqldk1ij&dl=0) 
