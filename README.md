@@ -49,7 +49,7 @@ In case internet connection is not good, [install AquaCropPlotter locally](https
 | 11:00-12:00 | [Crop Module 5: AquaCrop plug-in for heavy workloads](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%203.%20Crop%20module%205.%20AquaCrop%20plug-in%20for%20heavy%20workload.pdf)   |
 | 12:00-13:00 | [Crop Module 5: AquaCropPlotter for visualizing AquaCrop results](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Day%203.%20Crop%20module%205.%20AquaCropPlotter.pdf)   |
 
-**Delivered**
+**Delivered (Tandojam)**
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
 | 9:00-10:00 | Creating climate files: Recap                                   |
@@ -68,6 +68,8 @@ This training session will be enterely interactive. However, instructions to fol
 [data](https://www.dropbox.com/scl/fo/l8i44wpycv9vqs40cnqn7/h?rlkey=8nst44q5fg0aselhxdbvbu9bj&dl=0)
 
 [AquaCropPlotter data](https://www.dropbox.com/scl/fo/y5bpzty8lug0z969zin3g/h?rlkey=ydnysaindbmqtm62s4t59i963&dl=0)
+
+# Additional resources
 
 ## Quick recap to make a PRM file, run AquaCrop plug in and use AquaCropPlotter
 
