@@ -88,3 +88,5 @@ Make sure you have pasted this [file](https://www.dropbox.com/s/r9xghwetldc314b/
 [Climate data for Badin](https://www.dropbox.com/scl/fi/p6ig0wra142pkjo3w89s7/Badin_RCP45.csv?rlkey=yq71q9rbh7u1o3y6nhqldk1ij&dl=0) 
 
 [calibrated wheat file for Pakistan](https://www.dropbox.com/scl/fi/lwf1ioufsmfkc4bah68f4/wheatpakistan.CRO?rlkey=d6hscibmh07ytyie1nk0fpin4&dl=0)
+
+[Validation template](https://www.dropbox.com/scl/fi/b5ucr7x991x1yib9qpra9/calibration-validation-template.xlsx?rlkey=pptf17rqr3abayodw39pfz67e&dl=0)
