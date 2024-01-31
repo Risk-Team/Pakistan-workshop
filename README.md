@@ -69,6 +69,10 @@ This training session will be enterely interactive. However, instructions to fol
 
 [AquaCropPlotter data](https://www.dropbox.com/scl/fo/y5bpzty8lug0z969zin3g/h?rlkey=ydnysaindbmqtm62s4t59i963&dl=0)
 
+## Follow up training
+
+The presentation delivered during this follow-up training can be found [here](https://github.com/Risk-Team/Pakistan-workshop/blob/main/slides/Follow-up%20online%20training%20session.pdf)
+The files for parameterizing AquaCrop can be found [here](https://github.com/Risk-Team/Pakistan-workshop/blob/main/material/Crop%20parametrization%20(template).docx)
 # Additional resources
 
 ## Quick recap to make a PRM file, run AquaCrop plug in and use AquaCropPlotter
